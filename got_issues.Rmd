@@ -11,7 +11,7 @@ library(tidyverse)
 
 ## Step 1: Explring `storms` data
 
-The `storms` data are built-in to the `dplyr` package..
+The `storms` data are built-in to the `dplyr` package.
 
 Get a summary for each variable: 
 ```{r}
